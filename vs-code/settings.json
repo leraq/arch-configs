@@ -1,0 +1,60 @@
+{
+    "breadcrumbs.enabled": true,
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.startupEditor": "welcomePage",
+    "editor.tabSize": 2,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.fontFamily": "'JetBrains Mono'",
+    "workbench.colorTheme": "Nord",
+    "workbench.colorCustomizations": {
+        "editorGutter.background": "#212121",
+        "editor.background": "#212121",
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "variable.other.property",
+                ],
+                "settings": {
+                    "foreground": "#E17A7F",
+                }
+            },
+            {
+                "scope": [
+                    "variable.other.constant",
+                    "meta.var-single-variable",
+                    "entity.other.attribute-name",
+                ],
+                "settings": {
+                    "foreground": "#CCCCCC",
+                }
+            },
+        ]
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "window.zoomLevel": 0,
+    "editor.formatOnSave": true,
+    "launch": {
+    
+        "configurations": [],
+        "compounds": []
+    },
+}
