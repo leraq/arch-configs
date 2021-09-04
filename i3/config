@@ -20,7 +20,7 @@ exec --no-startup-id xsettingsd &
 exec --no-startup-id picom -b &
 
 # start a terminal
-bindsym $super+Return exec termite 
+bindsym $super+Return exec WINIT_X11_SCALE_FACTOR=0.8 alacritty 
 
 # start rofi (a program launcher)
 bindsym $super+space exec --no-startup-id rofi -show drun -display-drun "" 
