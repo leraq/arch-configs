@@ -10,5 +10,5 @@ status bar https://github.com/polybar/polybar \
 launcher https://github.com/davatorium/rofi \
 terminal https://github.com/alacritty/alacritty \
 color palette https://github.com/dylanaraps/pywal \
-ide https://code.visualstudio.com
+ide https://code.visualstudio.com \
 shell https://ohmyz.sh
