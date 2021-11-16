@@ -1,8 +1,13 @@
-# arch-configs
+<h1 align="center">
+  Arch Linux Setup
+</h1>
+<p align="center">
+  My config files for linux tools
+</p>
 
-config files for linux tools
+![image](https://user-images.githubusercontent.com/54955669/141981229-8fb6c2bb-2df5-4bcd-b47f-494df5c8df76.png)
 
-## tools
+## Tools
 
 window manager https://github.com/Airblader/i3 \
 compositor https://github.com/yshui/picom \
